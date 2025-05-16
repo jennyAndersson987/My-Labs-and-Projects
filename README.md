@@ -1,0 +1,1 @@
+Hello! These are all my labs and project that I have made during my time studying to become a M.Sc in Computer Science and Software Engineering. Don't hesitate to contact me at jenny.imander@gmail.com to discuss software development or just to network!
